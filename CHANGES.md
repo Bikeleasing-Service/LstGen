@@ -1,5 +1,14 @@
 # Changes
 
+## 0.6.6
+* Added 2025 PAP
+
+## 0.6.5
+* Added 2024 december PAP
+
+## 0.6.4
+* Added 2024 PAP (thanks antonio-masotti)
+
 ## 0.6.3
 * Added fix for rounding in BigDecimal.SetScale for golang. (thanks Markus)
 
